@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+
+DisplayImage
+dataset/*
+build/*
